@@ -7,7 +7,7 @@ public class FirstClass {
 		System.out.println("second commit from local repository");
 
 
-		System.out.println("degistirdim");
+		System.out.println("2. kez conflict yapýyoruz");
 
 		System.out.println("first commit from remote repository");
 
